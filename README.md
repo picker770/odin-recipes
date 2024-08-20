@@ -1,1 +1,3 @@
 # odin-recipes
+
+# Welcome to the Odin Recipes project! This repository showcases a collection of recipes designed to enhance web development skills. The project focuses on using HTML and CSS to create a visually appealing and user-friendly recipe book. By the end of this project, you will have demonstrated your ability to structure content with HTML, style pages with CSS, and implement responsive design principles. This exercise not only hones your technical skills but also improves your attention to detail and creativity in web design. Enjoy building and refining your recipe collection as you develop these essential web development competencies.
